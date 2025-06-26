@@ -558,3 +558,9 @@
             opacity: 1;
             transform: translateY(0);
         }
+
+        @media (max-width: 768px) {
+        #home {
+            padding-top: 100px; /* adjust the value as you want */
+            }
+        }
