@@ -210,9 +210,9 @@ document.addEventListener("DOMContentLoaded", () => {
         "Web-Based Appointment and Patient Management System in Barangay Health Center Anabu II-F. Features user authentication, real-time appointment booking, patient record management, and an administrative dashboard.",
       url: "#",
       images: [
-       "https://placehold.co/1200x800/10B981/FFF?text=ERP+System+-+Landing Page",
-        "https://placehold.co/1200x800/059669/FFF?text=ERP+System+-+Admin Portal",
-        "https://placehold.co/1200x800/047857/FFF?text=ERP+System+-+Patient Portal",
+       "https://placehold.co/1200x800/10B981/FFF?text=Patient+Management+System+-+Landing Page",
+        "https://placehold.co/1200x800/059669/FFF?text=Patient+Management+-+Admin Portal",
+        "https://placehold.co/1200x800/047857/FFF?text=Patient+Management+-+Patient Portal",
       ],
     },
     2: {
@@ -232,9 +232,9 @@ document.addEventListener("DOMContentLoaded", () => {
         "Marielle Building Unit & Space Management System. A property management platform featuring appointment scheduling, CRM, analytics, leasing and maintenance modules.",
       url: "#",
       images: [
-      "https://placehold.co/1200x800/10B981/FFF?text=ERP+System+-+Landing Page",
-        "https://placehold.co/1200x800/059669/FFF?text=ERP+System+-+Admin Portal",
-        "https://placehold.co/1200x800/047857/FFF?text=ERP+System+-+Client Portal",
+      "https://placehold.co/1200x800/10B981/FFF?text=Unit+Management+System+-+Landing Page",
+        "https://placehold.co/1200x800/059669/FFF?text=Unit+Management+System+-+Admin Portal",
+        "https://placehold.co/1200x800/047857/FFF?text=Unit+Management+System+-+Client Portal",
       ],
     },
     4: {
